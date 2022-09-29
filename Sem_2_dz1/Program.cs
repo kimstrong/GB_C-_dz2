@@ -4,8 +4,17 @@
 // 782 -> 8
 // 918 -> 1
 
+// МОЕ РЕШЕНИЕ
 
-int number = new Random().Next(100,1000);
-Console.WriteLine(number);
-int result = number/10%10;
-Console.WriteLine(result);
+// int number = new Random().Next(100,1000);
+// Console.WriteLine(number);
+// int result = number/10%10;
+// Console.WriteLine(result);
+
+// РЕШЕНИЕ МИШИ
+
+string testnumber = Console.ReadLine();
+Console.WriteLine("Третий символ введенной строчки: "+ testnumber[1]);
+
+
+
