@@ -11,10 +11,6 @@
 // int result = number/10%10;
 // Console.WriteLine(result);
 
-// РЕШЕНИЕ МИШИ
-
-string testnumber = Console.ReadLine();
-Console.WriteLine("Третий символ введенной строчки: "+ testnumber[1]);
 
 
 
